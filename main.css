@@ -1,0 +1,94 @@
+h1{
+	color:  #00B4FF;
+    /*text-shadow : 3px 0 black, 0 2px black, 1px 0 black, 0 -1px black;*/
+}
+
+body{
+    background-color: white;
+    background-size: 100% 100%;
+
+}
+
+#title{
+    position: absolute;
+    left:600px;
+    top:0px;
+    font-size: 100px;
+}
+
+#login{
+    position: absolute;
+    top: 170px;
+    right: 15px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #00B4FF;
+}
+
+#logout{
+	position: absolute;
+	top: 140px;
+	right: 15px;
+	text-decoration: none;
+	color: #00B4FF;
+	font-size: 30px;
+}
+
+#search{
+    font-size: 25px;
+    padding-right: 20px;
+    color: #00B4FF;
+}
+
+#searchtext{
+    padding-top: 3px;
+}
+
+.button{
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 16px;
+    font-size: 30px;
+    text-decoration : none;
+    border : 4px solid #00B4FF;
+    background-color : #00B4FF;
+}
+.button1{
+    color: white;
+    background-color: #00B4FF;
+    border: #00B4FF;
+    padding: 4px;
+    
+}
+
+footer{
+    text-align: center;
+    background-color: #00B4FF;
+    color: white;
+}
+
+.producthome{
+	text-decoration: none;
+	color:#00B4FF;
+}
+
+
+.samsung{
+	color: darkslategrey;
+	font-size: 40px;
+	font-family:lucida;
+	position:absolute;
+	right: 400px;
+	top: 1200px;
+}
+
+.realbutton{
+	border-radius: 5%;
+	padding: 5px;
+	background-color: white;
+	color: #00B4FF;
+	border-color: #00B4FF;
+}
